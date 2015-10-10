@@ -1,0 +1,50 @@
+\bibitem{Baek2005} I.-M. Baek, A. Bandopadhyaya, C. Dhu. Determinants of market-assessed sovereign risk: Economic fundamentals or market risk appetite? \textit{Journal of International Finance and Money}, 24:533-548, 2005.
+\bibitem{Biglaiser2007} G. Biglaiser, K. DeRouen Jr. Sovereign bond ratings and neoliberalism in Latin America. \textit{International Studies Quarterly}, Vol. 51, 2007.
+\bibitem{Brada2001} J. Brada, A. Kutan. The convergence of monetary policy between candidate countries and the European Union. \textit{Economic Systems}, Vol. 25:3, pp. 215-31, 2001.
+\bibitem{Burik1990} P. Burik, R. Ennis. Foreign bonds in diversified portfolios: a limited advantage. \textit{Financial Analysts Journal}, Mar.-Apr., 1990.
+\bibitem{Cantor1996} R. Cantor, F. Packer. Determinants and impact of sovereign credit ratings. \textit{Federal Reserve Board of New York Economic Policy Review}, 1996.
+\bibitem{Cappelen1999} A. Cappelen, J. Fagerberg, B. Verspagen. Lack of regional convergence. In: \textit{The Economic Challenge for Europe. Adapting to Innovation-Based Growth}.
+\bibitem{Cappelen2003} A. Cappelen, F. Castallacci, J. Fagerberg, B. Verspagen. The impact of EU regional support on growth and convergence in the European Union. \textit{Journal of Common Market Studies}, Vol. 41:4, 2003.
+\bibitem{Christiansen1997} H. Christiansen, C. Pigott. Long-term interest rates in globalised markets. OECD Working Paper, 1997.
+\bibitem{Clare1995} A.D. Clare, M.  Maras, S.H. Thomas. The integration and efficiency of international bond markets. \textit{Journal of Business Finance \& Accounting}, 22, pp. 313-322, 1995.
+\bibitem{Clare2000} A.D. Clare, I. Lekkos. An analysis of the relationship between national bond markets. Bank of England Working Paper, 2000.
+\bibitem{Conlon2009} T. Conlon, H.J. Ruskin, M. Crane. Cross-correlation dynamics in financial time series. \textit{Physica A}, Vol. 388:5, 2009.
+\bibitem{Downs1996} G. Downs, D. Rocke, P. Barsoom. Is the good news about compliance good news about cooperation? \textit{International Organization}, Vol. 50, pp. 379-406, 1996.
+\bibitem{Drozdz2001} S. Drozdz, F. Grummer, F. Ruf, J. Speth.  Towards identifying the world stock market cross-correlations: DAX versus Dow-Jones.  \textit{Physica A}, Vol. 294, 2001.
+\bibitem{Duran2010} A. Duran, M.J. Bommarito II.  A profitable trading and risk management strategy despite transaction costs.  \textit{Quantitative Finance}, 2010.
+\bibitem{Durbin1999} E. Durbin, D. Ng. Uncovering country risk in emerging market bond prices. Board of Governors of the Federal Reserve Discussion Paper, 1999.
+\bibitem{EC2006} EU integration seen through statistics. European Commission, 2006.
+\bibitem{ECB2004} Measuring financial integration in the Euro area. European Central Bank, Occasional Paper Series, No. 14, 2004.
+\bibitem{ECB2005} Indicators of financial integration in the Euro area. European Central Bank, Occasional Paper Series, 2005.
+\bibitem{ECB2007} Financial integration in Europe. European Central Bank, Occasional Paper Series, 2007.
+\bibitem{Ekinci2007} M. Ekinci, S. Kalemli-Oczan, B. Sorensen. Financial integration within EU countries: The role of institutions, confidence, and trust. NBER Working Paper, 2007.
+\bibitem{FRBSF2004} Monetary and financial integration: evidence from the EMU. Federal Reserve Bank of San Francisco Working Paper, 2004.
+\bibitem{FRBSF2008} M. Spiegel. Monetary and financial integration in the EMU: Push or pull? Federal Reserve Bank of San Francisco Working Paper, 2008.
+\bibitem{Fagerberg1996} J. Fagerberg, B. Verspagen. Heading for divergence? Regional growth in Europe reconsidered. \textit{Journal of Common Market Studies}, Vol. 34, pp. 431-448, 1996.
+\bibitem{Frost2006} C. A. Frost. Credit rating agencies in capital markets: a review of research evidence on selected criticisms of agencies.  University of North Texas,  Working Paper, 2006.
+\bibitem{GFD2010} Global Financial Data.  \url{http://www.globalfinancialdata.com/}.  Last accessed Dec. 2010.
+\bibitem{Gray2009} J. Gray. International organization as a seal of approval: European Union accession and investor risk. \textit{American Journal of Political Science}, Vol. 53:4, pp. 931-949, 2009.
+\bibitem{Hardle2007} W. Hardle, L. Simar. Applied Multivariate Statistical Analysis. Second edition, Springer: New York, 2007.
+\bibitem{Heimo2007} T. Heimo, J. Saramaki, J.-P. Onnela, K. Kaski. Spectral and network methods in the analysis of correlation matrices of stock returns. \textit{Physica A}, Vol. 383, 2007.
+\bibitem{Hernandez2001} L. Hernandez, R. Valdes. What drives contagion: Trade, neighborhood, or financial links?. \textit{International Review of Financial Analysis}, Vol. 10, pp. 203-218, 2001.
+\bibitem{Hunt2009} J. P. Hunt. Credit rating agencies and the ``wordwide credit crisis'': the limits of reputation, the insufficiency of reform, and a proposal for improvement. \textit{Columbia Business Law Review}, 2009.
+\bibitem{Kaminsky2002} G. Kaminsky, C. Reinhart. Financial markets in times of stress. \textit{Journal of Development Economics}, Vol. 69, pp. 451-470, 2002.
+\bibitem{Kuhner2001} C. Kuhner. Financial rating agencies: are they credible? Insights into the reporting incentives of rating agencies in times of enhanced risk. \textit{Schmalenbach Business Review}, Vol. 53, 2001.
+\bibitem{Laloux1998} L. Laloux, P. Cizeau, J.-P. Bouchaud, M. Potters. Noise Dressing of Financial Correlation Matrices.  \textit{Physical Review Letters}, Vol. 83:7, 1998. 
+\bibitem{Laloux2000} L. Laloux, P. Cizeau, M. Potters, J. Bouchaud.  Random matrix theory and financial correlations.  \textit{International Journal of Theoretical and Applied Finance}, Vol. 3:3, 2000.
+\bibitem{Laopodis2008} N.T. Laopodis. Government bond market integration within European Union. \textit{International Research Journal of Finance and Economics}, Vol. 19, pp. 56-76, 2008.
+\bibitem{Laopodis2010} N. T. Laopodis. Dynamic linkages among major sovereign bond yields.  \textit{Journal of Fixed Income}, Vol. 20:1, pp.74-87, 2010.
+\bibitem{Levy1988} H. Levy, Z. Lerman. The benefits of international diversification in bonds. \textit{Financial Analysts Journal}, Sep.-Oct., 1988.
+\bibitem{Markowitz1952} H. Markowitz. Portfolio Selection.  \textit{Journal of Finance}, Vol. 7:1, 1952.
+\bibitem{Markowitz1959} H. Markowitz.  Portfolio selection: efficient diversification of investments. John Wiley \& Sons, 1959.
+\bibitem{Molle1980} W. Molle.  Regional disparity and economic development in the European Community. Westmead: Saxon House, 1980.
+\bibitem{Molle1988} W. Molle, R. Cappellin. Regional impacts of community policies in Europe. Aldershot. UK. 1988.
+\bibitem{Obstfeld2003} M. Obstfeld, A. Taylor. Sovereign risk, credibility, and the gold standard: 1870-1913 versus 1925-31. \textit{The Economic Journal}, Vol. 113, pp. 241-274, 2003.
+\bibitem{PenaCasas2009} R. Pe\~na-Casas, P. Pochet. Convergence and divergence of working conditions in Europe: 1990-2005. Eurofound Report, 2009.
+\bibitem{Schimmelfennig2005} F. Schimmelfennig, U. Sedelmeier. The Europeanization of Central and Eastern Europe. Ithaca, NY: Cornell University Press, 2005.
+\bibitem{Solnik1996} B. Solnik, C. Boucrelle, Y. Le Fur. International market correlation and volatility. \textit{Financial Analysts Journal}, Sep.-Oct., 1996.
+\bibitem{Tam2008} C.S. Tam, I.W. Yu. Modeling sovereign bond yield curves of the US, Japan and Germany. \textit{International Journal of Finance and Economics}, Vol. 13, pp. 82-91, 2008.
+\bibitem{Vachudova2001} M. Vachudov\'a. The leverage of international institutions on democratizing states: the European Union and Eastern Europe. RSCAS Working Paper, 2001.
+\bibitem{VonStein2005} J. von Stein. Do treaties constrain or screen? Selection bias and treaty compliance. \textit{The American Political Science Review}, Vol. 99:4, pp. 611-22, 2005.
+\bibitem{Westphalen2001} M. Westphalen. The determinants of sovereign bond credit spreads changes. HEC Working Paper, 2001.
+\bibitem{Yang2005} J. Yang. Government bond market linkages: evidence from Europe. \textit{Applied Financial Economics}, Vol. 15, pp. 599-610, 2005.
